@@ -264,30 +264,100 @@ media marketing" */
     {
         font-size: 12px;
         position: absolute;
-        right: 10px
+        right: 10px;
     }
    .search-engine-optimization-h2,.content_paragraph,.online-reputation-management-h2, .social-media-marketing-h2
    {
-    font-size: 8px
+    margin-top: 40px;
+    font-size: 10px;
+    
    }
-   .lead-generation-h3, .benefit_paragraph, .brand-awareness-h3, .cost-management-h3
+ 
+   .second_image
    {
-    font-size: 8px
+    width: 100px;
+    position: absolute;
+    top: 920px;
+    left: 30px;       
+   } 
+   .third_image
+   {
+    width: 100px;
+    position: absolute;
+    top: 1220px;
    }
-   .second_image, .third_image, .fourth_image
+   .fourth_image
    {
-    width: 180px;
-   }   
+    width: 100px;
+    position: absolute;
+    top: 1520px;
+   }
    .benefits
    {
     width: 140px;
+    height: 880px;
+    
    }
+   .benefit-cost, .benefit-lead, .benefit-brand
+   {
+    width: 80px;
+   } 
+   .search-engine-optimization, .online-reputation-management, .social-media-marketing
+   {
+    height: 280px;
+   } 
+   
    .webpage_content
    {
     width: 300px;
     height: 100px;
+   
+   }
+   #content_paragraph
+   {
+    font-size: 10px;
+    
+
+   }
+   .benefit-lead-section
+   {
+    margin-top: 10px;   
+    font-size: 15px; 
+    
+   }
+   .lead-generation-h3
+   {
+    font-size: 20px;
+
+   }
+   .benefit_paragraph
+   {
+    font-size: 12px;
+   }
+   .brand-awareness-h3
+   {
+    font-size: 20px;
+   }
+   .cost-management-h3
+   {
+    font-size: 20px;
+    position: absolute;
+    right: 25px;
+   }
+   .benefit-cost-section
+   {
+    padding-right: 10px;
+   }
+   .benefit_paragraph_cost
+   {
+    margin-top: 40px;
+    font-size: 12px;
+    color: white;
    }
 
-};
+   
+
+
+}
     
 

@@ -5,4 +5,3 @@
  the code particularly between html and css.
 
 
-module 1 refactor.png
