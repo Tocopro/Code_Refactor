@@ -239,3 +239,55 @@ media marketing" */
     font-size: 20px;
     font-weight: bold;    
 }
+@media  screen and (max-width: 680px)
+{
+    .main_heading
+    {
+        font-size: 32px;
+    }
+    .links1
+    {        
+        font-size: 12px;
+        position: absolute;
+        right: 340px;
+        
+
+    }
+    .links2
+    {
+        font-size: 12px;
+        position: absolute;
+        right: 150px;
+
+    }
+    .links3
+    {
+        font-size: 12px;
+        position: absolute;
+        right: 10px
+    }
+   .search-engine-optimization-h2,.content_paragraph,.online-reputation-management-h2, .social-media-marketing-h2
+   {
+    font-size: 8px
+   }
+   .lead-generation-h3, .benefit_paragraph, .brand-awareness-h3, .cost-management-h3
+   {
+    font-size: 8px
+   }
+   .second_image, .third_image, .fourth_image
+   {
+    width: 180px;
+   }   
+   .benefits
+   {
+    width: 140px;
+   }
+   .webpage_content
+   {
+    width: 300px;
+    height: 100px;
+   }
+
+};
+    
+
