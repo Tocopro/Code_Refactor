@@ -38,8 +38,7 @@ body
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     color: #ffffff;
-    text-decoration: none; 
-    
+    text-decoration: none;     
 }
 .links2
 {
@@ -61,11 +60,7 @@ body
     font-size: 20px;
     color: #ffffff;
     text-decoration: none; 
-
 }
-
-/* webpage links aligned to the right */
-
 /* main page below the heading section */
 .main_image
 {
